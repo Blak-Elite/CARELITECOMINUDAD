@@ -1,0 +1,8 @@
+Add user authentication and vehicle configuration features
+
+Integrates JWT for authentication, bcrypt for password hashing, multer for file uploads, and implements a new database storage layer for managing users and vehicle configurations. Includes rate limiting and admin-specific authentication.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b19f3534-0d68-4549-afa5-c48dd7eef0f2
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/4bca7982-15c7-4533-b17f-d17efdc463fc/b19f3534-0d68-4549-afa5-c48dd7eef0f2/3kJQH2b
